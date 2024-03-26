@@ -1,0 +1,1 @@
+const _="/Byte-Auction/assets/DALL·E 2023-12-17 17.22.00 - A majestic cat wearing a king's crown and robe_ sitting on a luxurious throne with an expression of regal dignity_ in a grand castle hall-C_1xx5q1.png";export{_ as default};

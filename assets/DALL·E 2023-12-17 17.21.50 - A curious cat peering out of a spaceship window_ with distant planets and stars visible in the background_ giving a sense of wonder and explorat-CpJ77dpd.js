@@ -1,0 +1,1 @@
+const _="/Byte-Auction/assets/DALL·E 2023-12-17 17.21.50 - A curious cat peering out of a spaceship window_ with distant planets and stars visible in the background_ giving a sense of wonder and explorat-BIgonsbd.png";export{_ as default};

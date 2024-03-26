@@ -1,0 +1,1 @@
+const _="/Byte-Auction/assets/DALL·E 2023-12-17 17.21.58 - A cat artist painting a masterpiece_ surrounded by colorful paint tubes and brushes_ with a beret on its head and a look of deep concentration-KCgTeqC-.png";export{_ as default};

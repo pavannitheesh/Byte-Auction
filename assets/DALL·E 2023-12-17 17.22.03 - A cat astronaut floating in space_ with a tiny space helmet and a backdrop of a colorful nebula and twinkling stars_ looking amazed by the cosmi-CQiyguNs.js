@@ -1,0 +1,1 @@
+const _="/Byte-Auction/assets/DALL·E 2023-12-17 17.22.03 - A cat astronaut floating in space_ with a tiny space helmet and a backdrop of a colorful nebula and twinkling stars_ looking amazed by the cosmi-D630SOeb.png";export{_ as default};
